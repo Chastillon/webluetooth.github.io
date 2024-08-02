@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/STM32_Webbluetooth/static/css/main.57060074.css",
+    "main.js": "/STM32_Webbluetooth/static/js/main.0e7f2d77.js",
+    "index.html": "/STM32_Webbluetooth/index.html",
+    "static/media/st-logo.svg": "/STM32_Webbluetooth/static/media/st-logo.01d65641d9828fd6847ef785b4019063.svg",
+    "static/media/lightOnBlue.svg": "/STM32_Webbluetooth/static/media/lightOnBlue.e4933a8ad55d6eebfa0310c67cde2082.svg",
+    "static/media/lightOnPink.svg": "/STM32_Webbluetooth/static/media/lightOnPink.7f971faac8402be7ecbb1330e81342fb.svg",
+    "static/media/iconInfo.svg": "/STM32_Webbluetooth/static/media/iconInfo.66f7ed72db618df4ba47d59edb7c2ece.svg",
+    "static/media/iconInfoPink.svg": "/STM32_Webbluetooth/static/media/iconInfoPink.49d9aa3d6fa6dd9e80201e48b7b701bd.svg",
+    "static/media/lightOffBlue.svg": "/STM32_Webbluetooth/static/media/lightOffBlue.7aca40f9fa79ed781538dbc1f0d55df3.svg",
+    "static/media/lightOffPink.svg": "/STM32_Webbluetooth/static/media/lightOffPink.b14fc70dbf17669d9e7dab5664c4c580.svg",
+    "main.57060074.css.map": "/STM32_Webbluetooth/static/css/main.57060074.css.map",
+    "main.0e7f2d77.js.map": "/STM32_Webbluetooth/static/js/main.0e7f2d77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57060074.css",
+    "static/js/main.0e7f2d77.js"
+  ]
+}
